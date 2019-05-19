@@ -2,10 +2,10 @@
 
 A new Flutter application.
 
-<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-04 at 23.58.13_iphonexspacegrey_portrait" width="320"> 
-<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-05 at 00.01.57_iphonexspacegrey_portrait.png" width="320"> 
-<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-05 at 00.02.23_iphonexspacegrey_portrait.png" width="320"> 
-<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-05 at 00.01.15_iphonexspacegrey_portrait.png" width="320"> 
+<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-04 at 23.58.13_iphonexspacegrey_portrait.png" width="400">
+<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-05 at 00.01.57_iphonexspacegrey_portrait.png" width="400">
+<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-05 at 00.02.23_iphonexspacegrey_portrait.png" width="400">
+<img src="screenshots/Simulator Screen Shot - iPhone XR - 2019-05-05 at 00.01.15_iphonexspacegrey_portrait.png" width="400">
 
 ## Getting Started
 
